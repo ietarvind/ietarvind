@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🌱 A Senior Developer, Working mostly with Java, Microservices Architecture, Graphql ,Rest Apis, Grpc, Hazelcast cache and Related Technologies . I enjoy building robust and quality Data Pipelines & Products.
-- 🌱 I’m currently working with Banking Organisation as a Senior developer (Java, Spring Cloud Microservices Architecture , Graphql, Grpc, Rest & Aws) and building scalable, robust & resilient, highly available applications
+- 🌱 I’m currently working with Leading Banking Organisation as a Senior developer (Java, Spring Cloud Microservices Architecture , Graphql, Grpc, Rest & Aws and related tech) and building scalable, robust & resilient, highly available applications
 
 - 💞️ I’m looking to collaborate on robust and scalable data access tools using Microservices application with AWS.
 
