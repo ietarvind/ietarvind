@@ -10,5 +10,5 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ietarvind&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="ietarvind" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ietarvind&layout=compact&langs_count=16&theme=dracula&include_all_commits=true" alt="ietarvind" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ietarvind&layout=compact&langs_count=16&theme=dracula&include_all_commits=true" alt="ietarvind" />
 </div>
